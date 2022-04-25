@@ -41,6 +41,9 @@ INSTALLED_APPS = [
 
     # LOCAL APPS
     'polls.apps.PollsConfig',
+
+    # THIRD PARTY APPS
+    'django_extensions',
 ]
 
 MIDDLEWARE = [
